@@ -11,7 +11,7 @@ else:
 
 #Task 2  Sum of Integers from 1 to 50 Using a Loop
   
-a =int(input("enter your 1st value: "))
+a =int(input("enter your value: "))
 total = 0
 for i in range(1, a + 1):
     total += i
